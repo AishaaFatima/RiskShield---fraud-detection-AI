@@ -170,6 +170,3 @@ A few things worth being upfront about:
 
 ---
 
-## License
-
-MIT
