@@ -127,13 +127,12 @@ val_results = score_transactions(final_model, X_val)
 ## Running the notebook
 
 ```bash
-git clone https://github.com/<your-username>/RiskShield.git
+git clone https://github.com/AishaaFatima/RiskShield.git
 cd RiskShield
 pip install -r requirements.txt
 jupyter notebook RiskShield.ipynb
 ```
 
-Place `Fraud.csv` in the project root before running. The full notebook takes several minutes on a standard laptop, mostly in the gradient boosting fit.
 
 ### Requirements
 
